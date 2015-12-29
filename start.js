@@ -95,7 +95,7 @@ process.on('SIGINT', function() {
 	
 	// Reset and release gpio port
 	gpio22.reset();                
-    gpio22.unexport(function () {  
+    	gpio22.unexport(function () {  
 		console.log('...io 22 done...');	
 		
 		gpio27.reset();                
