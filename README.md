@@ -5,4 +5,8 @@ Youtube:
 
 https://www.youtube.com/watch?v=GQPlxPq5rw4
 
+## Requirements:
+
+<code>npm install gpio</code>
+
 
